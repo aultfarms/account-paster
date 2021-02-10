@@ -1,14 +1,20 @@
 {
-  "main.css": "/account-paster/static/css/main.2f4c85b2.chunk.css",
-  "main.js": "/account-paster/static/js/main.e13c19db.chunk.js",
-  "main.js.map": "/account-paster/static/js/main.e13c19db.chunk.js.map",
-  "runtime~main.js": "/account-paster/static/js/runtime~main.e31fc3a0.js",
-  "runtime~main.js.map": "/account-paster/static/js/runtime~main.e31fc3a0.js.map",
-  "static/js/2.d09e5813.chunk.js": "/account-paster/static/js/2.d09e5813.chunk.js",
-  "static/js/2.d09e5813.chunk.js.map": "/account-paster/static/js/2.d09e5813.chunk.js.map",
-  "index.html": "/account-paster/index.html",
-  "precache-manifest.4aff5c02a2efc4c573864ba768ded995.js": "/account-paster/precache-manifest.4aff5c02a2efc4c573864ba768ded995.js",
-  "service-worker.js": "/account-paster/service-worker.js",
-  "static/css/main.2f4c85b2.chunk.css.map": "/account-paster/static/css/main.2f4c85b2.chunk.css.map",
-  "static/media/logo.svg": "/account-paster/static/media/logo.5d5d9eef.svg"
+  "files": {
+    "main.css": "/account-paster/static/css/main.232bdb6e.chunk.css",
+    "main.js": "/account-paster/static/js/main.7b616a10.chunk.js",
+    "main.js.map": "/account-paster/static/js/main.7b616a10.chunk.js.map",
+    "runtime-main.js": "/account-paster/static/js/runtime-main.1217ee4e.js",
+    "runtime-main.js.map": "/account-paster/static/js/runtime-main.1217ee4e.js.map",
+    "static/js/2.2740e7d7.chunk.js": "/account-paster/static/js/2.2740e7d7.chunk.js",
+    "static/js/2.2740e7d7.chunk.js.map": "/account-paster/static/js/2.2740e7d7.chunk.js.map",
+    "index.html": "/account-paster/index.html",
+    "static/css/main.232bdb6e.chunk.css.map": "/account-paster/static/css/main.232bdb6e.chunk.css.map",
+    "static/js/2.2740e7d7.chunk.js.LICENSE.txt": "/account-paster/static/js/2.2740e7d7.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1217ee4e.js",
+    "static/js/2.2740e7d7.chunk.js",
+    "static/css/main.232bdb6e.chunk.css",
+    "static/js/main.7b616a10.chunk.js"
+  ]
 }
