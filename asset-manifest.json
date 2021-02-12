@@ -1,20 +1,20 @@
 {
   "files": {
     "main.css": "/account-paster/static/css/main.232bdb6e.chunk.css",
-    "main.js": "/account-paster/static/js/main.7b616a10.chunk.js",
-    "main.js.map": "/account-paster/static/js/main.7b616a10.chunk.js.map",
+    "main.js": "/account-paster/static/js/main.a05336b5.chunk.js",
+    "main.js.map": "/account-paster/static/js/main.a05336b5.chunk.js.map",
     "runtime-main.js": "/account-paster/static/js/runtime-main.1217ee4e.js",
     "runtime-main.js.map": "/account-paster/static/js/runtime-main.1217ee4e.js.map",
-    "static/js/2.2740e7d7.chunk.js": "/account-paster/static/js/2.2740e7d7.chunk.js",
-    "static/js/2.2740e7d7.chunk.js.map": "/account-paster/static/js/2.2740e7d7.chunk.js.map",
+    "static/js/2.1cf71c78.chunk.js": "/account-paster/static/js/2.1cf71c78.chunk.js",
+    "static/js/2.1cf71c78.chunk.js.map": "/account-paster/static/js/2.1cf71c78.chunk.js.map",
     "index.html": "/account-paster/index.html",
     "static/css/main.232bdb6e.chunk.css.map": "/account-paster/static/css/main.232bdb6e.chunk.css.map",
-    "static/js/2.2740e7d7.chunk.js.LICENSE.txt": "/account-paster/static/js/2.2740e7d7.chunk.js.LICENSE.txt"
+    "static/js/2.1cf71c78.chunk.js.LICENSE.txt": "/account-paster/static/js/2.1cf71c78.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.1217ee4e.js",
-    "static/js/2.2740e7d7.chunk.js",
+    "static/js/2.1cf71c78.chunk.js",
     "static/css/main.232bdb6e.chunk.css",
-    "static/js/main.7b616a10.chunk.js"
+    "static/js/main.a05336b5.chunk.js"
   ]
 }
