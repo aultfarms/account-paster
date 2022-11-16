@@ -13,7 +13,7 @@
     "overmind-react": "^26.0.1",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
-    "react-scripts": "3.4.3"
+    "react-scripts": "5.0.1"
   },
   "scripts": {
     "start": "concurrently \"overmind-devtools\" \"cross-env PORT=8000 REACT_APP_VERSION=$npm_package_version react-scripts start\"",
